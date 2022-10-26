@@ -36,11 +36,11 @@ module.exports = {
         // },
 
         // For hosts (please adjust)
-        remotes: {
-            "microFrontendOne": "http://localhost:4200/remoteEntry.js",
-            "microFrontendTwo": "http://localhost:4201/remoteEntry.js",
-
-        },
+        // remotes: {
+        //     "microFrontendOne": "http://localhost:4200/remoteEntry.js",
+        //     "microFrontendTwo": "http://localhost:4201/remoteEntry.js",
+        //
+        // },
 
         shared: share({
           "@angular/core": { singleton: true, strictVersion: true, requiredVersion: 'auto' },

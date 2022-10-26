@@ -1,0 +1,5 @@
+{
+  "microFrontendOne": "http://localhost:4200/remoteEntry.js",
+  "microFrontendTwo": "http://localhost:4201/remoteEntry.js",
+  "microFrontendRemote": "http://localhost:4201/remoteEntry.js"
+}
